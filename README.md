@@ -90,3 +90,43 @@ GTA|299|90|75%
 FIFA23|299|0|0%
 原神|25|38|12%
 
+## 代码片段
+
+```c
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>
+
+int main()
+{
+	printf"test output...\n"();
+	return 0;
+}
+```
+
+```bash
+	git add filename
+	git rm filename
+	git remote add origin SSH_address
+	echo "数据回显"
+```
+
+```cpp
+	// c++代码片段
+```
+
+```python
+	import os;
+	# python 代码片段
+```
+
+```java
+	// java 代码
+```
+
+## 插入图片和链接
+
+[bilibili弹幕网](https://www.bilibili.com "点击进入B站")<br>
+[Github](https://github.com "点击进入GitHub")<br>
+
+![壁纸截图](C://Users//lenovo//Desktop//ab.png "图片标题")
