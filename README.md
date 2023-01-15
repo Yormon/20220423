@@ -129,4 +129,4 @@ int main()
 [bilibili弹幕网](https://www.bilibili.com "点击进入B站")<br>
 [Github](https://github.com "点击进入GitHub")<br>
 
-![壁纸截图](C://Users//lenovo//Desktop//ab.png "图片标题")
+![壁纸截图](https://tudingtu.cn/i/2023/01/15/qy7v48.png "图片标题")<br>
